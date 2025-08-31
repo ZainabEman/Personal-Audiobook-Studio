@@ -1,0 +1,9 @@
+gradio
+PyMuPDF
+pydub
+regex
+requests
+python-dotenv
+openvoice-cli
+ffmpeg-python
+torch
