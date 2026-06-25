@@ -8,5 +8,5 @@ openvoice-cli
 ffmpeg-python
 torch
 
-pycharm
+
 
