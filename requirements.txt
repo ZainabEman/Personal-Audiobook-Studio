@@ -7,3 +7,5 @@ python-dotenv
 openvoice-cli
 ffmpeg-python
 torch
+
+pycharm
