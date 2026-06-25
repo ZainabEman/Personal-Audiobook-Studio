@@ -10,3 +10,4 @@ torch
 
 pycharm
 numpy
+streamlit
